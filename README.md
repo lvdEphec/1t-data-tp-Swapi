@@ -7,4 +7,5 @@ https://devweb.ephec.be/TP/1T/S2_data/data-tp08_ajax-swapi/tp08_ajax-swapi.html
   
 // serveur original (mort) : https://swapi.co/api  
 // nouveau serveur : https://devweb.ephec.be/swapi  
-  
+
+L'objectif ici est de construire le <select> avec comme <option> les noms des films Star Wars (les valeurs étant les id correspondant).  
